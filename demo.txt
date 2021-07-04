@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is new line added by anzar shaikh
+=======
+HEllo welcome to github session
+added 1st change
+>>>>>>> 0068a4c9800890f09b3818e1e02e07c5f171b8d6
